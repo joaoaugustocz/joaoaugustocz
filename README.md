@@ -38,8 +38,8 @@ Atualmente sou **pesquisador no projeto CriarCE**, **professor de robótica na O
 
 | Linguagem     | Descrição                                   |
 |---------------|---------------------------------------------|
-| ![C++][c++]   | Firmware de robôs, controladores e bibliotecas       |
-| ![Python][python] | Scripts de automação, prototipagem e tooling       |
+| ![C++][c++]   | Firmware de robôs, controladores, visão computacional e bibliotecas       |
+| ![Python][python] | Scripts de automação, prototipagem, visão computacional, machine learning e tooling       |
 | ![JavaScript][js] | Interfaces web e pequenos dashboards            |
 | ![Java][java]     | Integrações e apps de backend menores            |
 
