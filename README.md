@@ -34,11 +34,19 @@ Atualmente sou **pesquisador no projeto CriarCE**, **professor de robótica na O
 
 - **Robô Baratinha** – robô educacional aprovado na **SNEPT 2024** e na **RiE 2025**
 
-## 📈 Métricas do GitHub
+## 🥇 Linguagens mais usadas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaugustocz&layout=donut&theme=tokyonight" alt="Top Languages Donut" />
-</p>
+| Linguagem     | Descrição                                   |
+|---------------|---------------------------------------------|
+| ![C++][c++]   | Firmware de robôs, controladores e bibliotecas       |
+| ![Python][python] | Scripts de automação, prototipagem e tooling       |
+| ![JavaScript][js] | Interfaces web e pequenos dashboards            |
+| ![Java][java]     | Integrações e apps de backend menores            |
+
+[c++]: https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white
+[python]: https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white
+[js]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
+[java]: https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white
 
 ## 📫 Como entrar em contato
 
