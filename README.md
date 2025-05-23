@@ -14,7 +14,7 @@
 
 Desenvolvedor de **hardware e firmware**, estudante de **Engenharia da Computação e Mecatrônica**, e professor de **Robótica** com experiência em **Rescue Maze**, visão computacional, modelagem 3D, design de PCBs e programação em **Python, C++, Java e JavaScript**.
 
-Atualmente sou **pesquisador no projeto criarCe** e oriento a equipe Byte Volta na RoboCup Junior Rescue Maze.
+Atualmente sou **pesquisador no projeto CriarCE**, **professor de robótica na Organização Educacional Farias Brito** e técnico da equipe Byte Volta na RoboCup Junior Rescue Maze.
 
 > "Transformando ideias em circuitos, linhas de código e robôs que ganham vida."
 
