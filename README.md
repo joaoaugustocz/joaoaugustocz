@@ -36,8 +36,8 @@ Atualmente sou **pesquisador no projeto CriarCE**, **professor de robótica na O
 
 ## 📈 Métricas do GitHub
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaugustocz&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaugustocz&layout=donut&theme=tokyonight" alt="Top Languages Donut" />
 </p>
 
 ## 📫 Como entrar em contato
