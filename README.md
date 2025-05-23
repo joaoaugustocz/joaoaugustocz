@@ -24,7 +24,7 @@ Atualmente sou **pesquisador no projeto CriarCE**, **professor de robótica na O
 |------|-------------|
 | **Linguagens** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | **Hardware** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-323232?style=flat) |
-| **AI/Visão** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![TensorFlowLite](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| **AI/Visão** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![TFLite](https://img.shields.io/badge/-TFLite-FF6F00?style=flat&logo=tensorflow&logoColor=white)|
 | **Databases** |  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 | **CAD & PCB** | ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FA8C00?style=flat) ![Fusion 360 Electronics](https://img.shields.io/badge/-Fusion%20360%20Electronics-FA8C00?style=flat) ![Eagle](https://img.shields.io/badge/-Eagle-FF0000?style=flat) |
 
