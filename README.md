@@ -27,7 +27,9 @@ Atualmente sou **pesquisador no projeto CriarCE**, **professor de robótica na O
 | **AI/Visão** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![TFLite](https://img.shields.io/badge/-TFLite-FF6F00?style=flat&logo=tensorflow&logoColor=white)|
 | **DevOps & Cloud** | ![PlatformIO](https://img.shields.io/badge/-PlatformIO-2C3E50?style=flat&logo=platformio&logoColor=white)
 | **Databases** |  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| **CAD & PCB** | ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FA8C00?style=flat) ![Fusion 360 Electronics](https://img.shields.io/badge/-Fusion%20360%20Electronics-FA8C00?style=flat) ![Eagle](https://img.shields.io/badge/-Eagle-FF0000?style=flat) |
+| **CAD & PCB** | ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FA8C00?style=flat) ![Fusion 360 Electronics](https://img.shields.io/badge/-Fusion%20360%20Electronics-FA8C00?style=flat) ![Eagle](https://img.shields.io/badge/-Eagle-FF0000?style=flat)|
+ | **IDEs & Tools** | ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-00599C?style=flat&logo=stmicroelectronics&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 🔭 Projetos em destaque
 
